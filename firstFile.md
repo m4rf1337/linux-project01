@@ -5,7 +5,7 @@
 Linux не спит, он всё понимает,
 И в логах тихо мне отвечает.
 
-\```
-print(Hello )
-print(World!)
-\```
+```
+print("Hello ")
+print("World!")
+```
